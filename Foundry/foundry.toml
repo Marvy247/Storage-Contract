@@ -5,7 +5,7 @@ libs = ["lib"]
 
 [rpc_endpoints]
 sepolia = "https://eth-sepolia.g.alchemy.com/public"
-coreDAO = "https://core.drpc.org"
+coreDAO = "https://rpc.test2.btcs.network"
 
 [etherscan]
 sepolia = { key = "V1VIR998I85I2YSX6D64DFCHXJERTU92IC" }
